@@ -1,0 +1,7 @@
+# No external dependencies required as all imports are from Python standard library:
+# - logging
+# - sys
+# - datetime
+# - pathlib
+# - typing
+# - json
